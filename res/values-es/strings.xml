@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">Ejemplo de widgets</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="title_activity_button_examples">Ejemplos de botón</string>
+    <string name="with_onclick_listener">Con onClickListener</string>
+    <string name="with_onclick_attribute">Con atributo onClick</string>
+    <string name="description">Descripcion</string>
+    <string name="close">Cerrar</string>
+    <string name="borderless_button">Boton sin borde</string>
+    <string name="title_activity_edit_texts_examples">Ejemplos campos de texto</string>
+    <string name="normal_edit_text">Campo de texto normal</string>
+    <string name="password">Contraseña</string>
+    <string name="person_name">Nombre de persona</string>
+    <string name="email">Correo electrónico</string>
+    <string name="multiline">Multilínea</string>
+    <string name="date">Fecha</string>
+    <string name="decimal">Numero decimal</string>
+    <string name="autocompleting_cities">Ciudades con autocompletar</string>
+    <string name="title_activity_checkboxes_example">Ejemplos Checkbox</string>
+    <string name="spoken_languages">Idiomas hablados</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+    <string name="french">Francés</string>
+    <string name="german">Alemán</string>
+    <string name="title_activity_radio_buttons_example">Ejemplos RadioButtons</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="other">Otro</string>
+    
+    <string-array name="cities_array">
+        <item>Armenia</item>
+        <item>Quimbaya</item>
+        <item>Montenegro</item>
+        <item>Pijao</item>
+        <item>Salento</item>
+        <item>Filandia</item>
+        <item>Calarcá</item>
+        <item>Circasia</item>
+    </string-array>
+
+</resources>

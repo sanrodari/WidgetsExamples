@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="app_name">WidgetsExamples</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_button_examples">ButtonExamples</string>
+    <string name="with_onclick_listener">With onClickListener</string>
+    <string name="with_onclick_attribute">Attribute onClick</string>
+    <string name="description">Description</string>
+    <string name="close">Close</string>
+    <string name="borderless_button">Borderless button</string>
+    <string name="title_activity_edit_texts_examples">Edit Texts Examples</string>
+    <string name="normal_edit_text">Normal Edit Text</string>
+    <string name="password">Password</string>
+    <string name="person_name">Person name</string>
+    <string name="email">Email</string>
+    <string name="multiline">Multiline</string>
+    <string name="date">Date</string>
+    <string name="decimal">Decimal number</string>
+    <string name="autocompleting_cities">Autocomple cities</string>
+    <string name="title_activity_checkboxes_example">Checkboxes Example</string>
+    <string name="spoken_languages">Spoken languages</string>
+    <string name="spanish">Spanish</string>
+    <string name="english">English</string>
+    <string name="french">French</string>
+    <string name="german">German</string>
+    <string name="title_activity_radio_buttons_example">Radio Buttons Example</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+
+    <string-array name="cities_array">
+        <item>Armenia</item>
+        <item>Quimbaya</item>
+        <item>Montenegro</item>
+        <item>Pijao</item>
+        <item>Salento</item>
+        <item>Filandia</item>
+        <item>Calarcá</item>
+        <item>Circasia</item>
+    </string-array>
+</resources>
