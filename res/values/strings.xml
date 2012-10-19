@@ -39,4 +39,27 @@
         <item>Calarcá</item>
         <item>Circasia</item>
     </string-array>
+
+    <string name="title_activity_toggles_button_examples">TogglesButtonExamples</string>
+    <string name="vibration_off">Vibration OFF</string>
+    <string name="vibration_on">Vibration ON</string>
+    <string name="sex">Sex</string>
+    <string name="title_activity_spinner_example">SpinnerExample</string>
+    <string name="selected_city_is">Selected city is</string>
+    <string name="there_is_no_selected_city">There is no selected city</string>
+    <string name="title_activity_pickers_examples">PickersExamples</string>
+    <string name="show_time_picker">Show time picker</string>
+    <string name="show_date_picker">Show date picker</string>
+    <string name="title_activity_option_menu_example">OptionMenuExample</string>
+    <string name="click_menu">Click menu</string>
+    <string name="action_was_selected">An action was selected</string>
+    <string name="an_action">An action</string>
+    <string name="title_activity_submenu_and_groups_examples">SubmenuAndGroupsExamples</string>
+    <string name="title_activity_contextual_menu_example">ContextualMenuExample</string>
+    <string name="search">Search</string>
+    <string name="echo">echo</string>
+    <string name="searching_for">Searching for</string>
+    <string name="echoing">Echoing</string>
+    <string name="with_oncheckedchanged">With onCheckedChanged</string>
+
 </resources>

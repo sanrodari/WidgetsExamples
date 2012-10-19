@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/action1"
+        android:title="@string/an_action"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionButtons"
+        android:title="@string/title_activity_button_examples"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionCheckboxes"
+        android:title="@string/title_activity_checkboxes_example"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionEditTexts"
+        android:title="@string/title_activity_edit_texts_examples"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionPickersExamples"
+        android:title="@string/title_activity_pickers_examples"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionRadioButtonsExamples"
+        android:title="@string/title_activity_radio_buttons_example"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionSpinnerExample"
+        android:title="@string/title_activity_spinner_example"
+        android:icon="@drawable/ic_launcher" />
+    
+    <item android:id="@+id/actionTogglesButtonExamples"
+        android:title="@string/title_activity_toggles_button_examples"
+        android:icon="@drawable/ic_launcher" />
+    
+</menu>

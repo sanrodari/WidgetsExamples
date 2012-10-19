@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/actionSearch"
+        android:title="@string/search"
+        android:icon="@drawable/ic_action_search" />
+    
+    <item android:id="@+id/actionEcho"
+        android:title="@string/echo"
+        android:icon="@drawable/ic_launcher" />
+    
+</menu>
